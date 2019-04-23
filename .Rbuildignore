@@ -3,3 +3,4 @@
 ^packageExample\.Rcheck$
 ^packageExample.*\.tar\.gz$
 ^packageExample.*\.tgz$
+^LICENSE\.md$
