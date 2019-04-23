@@ -1,0 +1,5 @@
+^packageExample\.Rproj$
+^\.Rproj\.user$
+^packageExample\.Rcheck$
+^packageExample.*\.tar\.gz$
+^packageExample.*\.tgz$
