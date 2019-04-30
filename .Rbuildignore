@@ -4,3 +4,7 @@
 ^packageExample.*\.tar\.gz$
 ^packageExample.*\.tgz$
 ^LICENSE\.md$
+^README\.Rmd$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
